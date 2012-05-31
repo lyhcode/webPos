@@ -10,7 +10,9 @@
     "connect": "2.3.0",
     "ejs": ">= 0.0.1",
     "socket.io": "0.9.6",
-    "mongoose": "2.6.5"
+    "mongoose": "2.6.5",
+    "passport": "latest",
+    "passport-facebook": "latest"
   },
   "engines": {
     "node": "v0.6.x",
